@@ -1,0 +1,16 @@
+[
+{
+  "modid": "slhbytixyq",
+  "name": "SLH",
+  "description": "simple and lightweight hud mod.",
+  "version": "2.2",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["tixyq"],
+  "credits": "wat",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
